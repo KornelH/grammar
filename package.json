@@ -20,7 +20,10 @@
       {
         "language": "erlang",
         "scopeName": "source.erlang",
-        "path": "./Erlang.plist"
+        "path": "./Erlang.plist",
+        "embeddedLanguages": {
+          "meta.embedded.block.markdown": "markdown"
+        }
       }
     ]
   },
